@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/fullstack_project1/static/js/main.8e8b57ba.js",
+    "index.html": "/fullstack_project1/index.html",
+    "main.8e8b57ba.js.map": "/fullstack_project1/static/js/main.8e8b57ba.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.8e8b57ba.js"
+  ]
+}
